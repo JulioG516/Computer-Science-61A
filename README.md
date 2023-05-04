@@ -2,7 +2,7 @@
 
 This is my attempt at "Structure and interpretation of computer programs" book and on Berkeley's CS61A course based on.
 
-This includes the homework and projects as well as Brian Harvey's lectures and notes at Berkeley.
+This includes the exercises and projects from the book as well as homework and projects as Brian Harvey's lectures and notes at Berkeley.
 
 Also, why Scheme and not Python? Read: http://people.eecs.berkeley.edu/~bh/proglang.html
 
